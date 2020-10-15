@@ -16,5 +16,8 @@ go build
 ## Usage
 
 ```
-./go-stocks petr4 azul3
+./go-stocks petr4 azul4
+
+     PETR4:    19.75
+     AZUL4:    25.73
 ```
