@@ -1,6 +1,6 @@
 # go-stocks
 
-A simple program for stock quotes using mfinance.com.br API (https://app.myfinance.com.br/docs/api)
+A simple program for stock quotes using mfinance.com.br API (https://mfinance.com.br/swagger/index.html)
 
 ## Installation
 
